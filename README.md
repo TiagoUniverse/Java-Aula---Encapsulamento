@@ -1,6 +1,12 @@
-# Java---Aula-Heranca-e-Polimorfismo
+# Java-Aula---Encapsulamento
 
-![image](https://github.com/TiagoUniverse/Java---Aula-Heranca-e-Polimorfismo/assets/71237410/e0014495-ad4d-4a30-ab60-26cd8d509c79)
+
+## Primeira versão
+![image](https://github.com/TiagoUniverse/Java-Aula---Encapsulamento/assets/71237410/419a2756-7b8c-4ebf-bf7f-261d3abba04c)
+
+
+## Segunda versão: Aplicado conceitos da aula de Herança e Polimorfismo [29-11-23]
+![image](https://github.com/TiagoUniverse/Java-Aula---Encapsulamento/assets/71237410/4bcf63f7-eb1f-4f94-ab3b-33c9ee3e2dad)
 
 
 
@@ -11,7 +17,8 @@ Curso de estudo de Java do + Conectado.
 ---
 
 ## 🎯 Objetivo
-Este repositório vai armazenar uma estudo de JAVA, focando no funcionamento das heranças e do polimorfismo.
+Este repositório irá armazenar a prática de um estudo de encapsulamento, onde minha classe de Cargo está encapsulada dentro de uma pasta (package).
+
 
 
 ---
